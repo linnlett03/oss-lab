@@ -4,3 +4,5 @@ def greet(name):
 
 print("Hello, Git!")
 greet("LINN LETT MON MON")
+def login(user):
+    print(f"{user} 로그인"
